@@ -1,4 +1,4 @@
-FROM tomcat:8.0-alpine
+FROM tomcat:jdk8-openjdk-slim
 LABEL maintainer=”rahulbhange46@gmail.com”
 ADD webapp.war /usr/local/tomcat/webapps/webapp.war
 EXPOSE 8080
