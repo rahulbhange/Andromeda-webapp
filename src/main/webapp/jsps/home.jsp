@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Andromeda Future Technologies.</h1>
-<h1 align="center"> Andromeda Future Technologies- Very Good in DevOps Projects with AWS, Provides solutions for Production ready Pipelines,in Nagpur Maharashtra and also provides Job Assitance and Job Support... Teaching Real Time scnerios</h1>
+<h1 align="center"> Andromeda Future Technologies- Very Good in DevOps Projects with AWS, Provides solutions for Production ready Pipelines,in Nagpur Maharashtra and also provides Job Assitance and Job Support... Teaching Real Time scenarios.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
